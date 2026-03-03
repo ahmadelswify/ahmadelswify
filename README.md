@@ -4,7 +4,7 @@ Technical operations and AI automation. I build systems that reduce friction, au
 
 ## Background
 
-- ECE from University of Washington, AI coursework at UIUC
+- Bachelors in Electrical and Computer Engineering at University of Washington Seattle, Masters in Computer Science at University of Illinois Urbana Champaign
 - Technical operations at Hiya: process automation, cross-functional tooling, AI-powered support systems
 - Currently exploring roles in solutions engineering, forward deployed engineering, and AI product management
 
