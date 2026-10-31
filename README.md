@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="AHMAD ELSWIFY, founding forward deployed engineer at Augmeta, set in an animated ASCII glyph field" src="assets/banner-dark.svg" width="100%">
+  <img alt="Ahmad Elswify, forward deployed engineer at Augmeta" src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <a href="https://www.augmeta.ai"><img src="assets/augmeta.svg" alt="Augmeta" align="right" width="150"></a>
@@ -26,5 +26,3 @@ AI-native operating systems for [Claude Code](https://claude.com/claude-code): p
 ### `> contact`
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fswify-0A0A0A?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/swify/) ![Portfolio](https://img.shields.io/badge/portfolio-coming%20soon-ff2a1f?style=flat-square&labelColor=0A0A0A)
-
-<sub><code>banner: an ASCII glyph field, baked to SVG by <a href="tools/banner.mjs">tools/banner.mjs</a></code></sub>
