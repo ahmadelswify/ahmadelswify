@@ -24,15 +24,15 @@ Decision intelligence for digital commerce. I work with enterprise Fortune 500 c
 
 **B.S. Electrical and Computer Engineering** · University of Washington<br><sub>2020 – 2024</sub>
 
-**Graduate coursework in Computer Science** · University of Illinois Urbana-Champaign
+**M.S. Artificial Intelligence** · University of Illinois Urbana-Champaign<br><sub>Expected 2027</sub>
 
 ## Open source
 
 AI-native operating systems for [Claude Code](https://claude.com/claude-code): plain markdown, local-first, driven by conversation instead of forms.
 
-- **[career-os](https://github.com/ahmadelswify/career-os)**: tailored resumes, STAR stories, interview prep and application tracking
+- **[career-os](https://ahmadelswify.com/career-os/)** ([repo](https://github.com/ahmadelswify/career-os)): tailored resumes, STAR stories, interview prep and application tracking
 - **[work-os](https://github.com/ahmadelswify/work-os)**: brain-dump backlog, tasks, goals and daily planning
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fswify-0A0A0A?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/swify/) ![Portfolio](https://img.shields.io/badge/portfolio-coming%20soon-ff2a1f?style=flat-square&labelColor=0A0A0A)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fswify-0A0A0A?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/swify/) [![Portfolio](https://img.shields.io/badge/portfolio-ahmadelswify.com-ff2a1f?style=flat-square&labelColor=0A0A0A)](https://ahmadelswify.com) [![Book a call](https://img.shields.io/badge/book-30%20min%20call-0A0A0A?style=flat-square&labelColor=0A0A0A&color=ff2a1f)](https://ahmadelswify.com/#book)
