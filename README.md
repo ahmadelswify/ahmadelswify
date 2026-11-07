@@ -12,9 +12,9 @@ I build agentic systems that sit inside real workflows: automation, tooling and 
 
 **Founding Forward Deployed Engineer** · [Augmeta](https://www.augmeta.ai)<br><sub>May 2026 – present</sub>
 
-Decision intelligence for digital commerce.
+Decision intelligence for digital commerce. I work with enterprise Fortune 500 customers.
 
-**Technical Product Support Manager** · Hiya<br><sub>2024 – 2026</sub>
+**Technical Product Manager** · Hiya<br><sub>Previously Technical Product Operations Specialist · 2024 – May 2026</sub>
 
 - Built a redress tool that cut resolution time from 48 hours to 4
 - Cleared a 1,000-ticket backlog
@@ -22,7 +22,9 @@ Decision intelligence for digital commerce.
 
 ## Education
 
-**BS, Electrical & Computer Engineering** · University of Washington<br>**Graduate CS coursework (AI)** · University of Illinois Urbana-Champaign
+**B.S. Electrical and Computer Engineering** · University of Washington<br><sub>2020 – 2024</sub>
+
+**Graduate coursework in Computer Science** · University of Illinois Urbana-Champaign
 
 ## Open source
 
