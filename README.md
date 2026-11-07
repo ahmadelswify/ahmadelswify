@@ -22,9 +22,9 @@ Decision intelligence for digital commerce. I work with enterprise Fortune 500 c
 
 ## Education
 
-**B.S. Electrical and Computer Engineering** · University of Washington<br><sub>2020 – 2024</sub>
+**B.S. Electrical and Computer Engineering** · University of Washington
 
-**M.S. Artificial Intelligence** · University of Illinois Urbana-Champaign<br><sub>Expected 2027</sub>
+**M.S. Artificial Intelligence** · University of Illinois Urbana-Champaign
 
 ## Open source
 
